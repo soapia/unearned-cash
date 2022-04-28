@@ -1,0 +1,49 @@
+html {
+  border: 10px solid red;
+}
+
+
+body {
+  padding: 2em;
+  text-align: center;
+  background-color: #E0DFCD;
+  color: #3D403B;
+  font-family: 'Space Mono', monospace;
+
+}
+
+h1 {
+  font-family: Times;
+  font-size: 3em;
+  color: #ED1F26;
+
+}
+
+.form-text {
+  text-align: left;
+  align-items: center;
+  justify-content: center;
+}
+
+.big-reveal {
+  font-size: 1.5em;
+  padding-top: 0.5em;
+}
+
+.btn-primary {
+  background-color: #3D403B;
+  border-color: #3D403B;
+  color: #E0DFCD;
+  margin: 0.5em;
+}
+
+.btn-primary:hover {
+  background-color: #A2A69B;
+  border-color: #A2A69B;
+  color: #3D403B;
+}
+
+footer {
+  font-size: 75%;
+  padding-top: 7em;
+}
